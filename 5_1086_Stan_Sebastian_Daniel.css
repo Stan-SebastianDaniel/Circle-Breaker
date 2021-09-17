@@ -1,0 +1,54 @@
+div#background {
+    width: 1200px;
+    height: 800px;
+    background-image: url('assets/background.png');
+    position: absolute;
+}
+
+#canvas{
+    width: 1200px;
+    height: 800px;
+    background: url('media/background.png');
+    position: absolute;
+}
+#spatiuDusmani{
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+}
+
+
+div#hero {
+    width: 50px;
+    height: 50px;
+    background-image: url('media/hero.png');
+    position: absolute;
+    left: 575px;
+    top: 700px; 
+}
+
+div#missiles {
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+}
+
+div.missile1 {
+    width: 10px;
+    height: 28px;
+    background-image: url('media/missile1.png');
+    position: absolute;
+}
+
+div#enemies {
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+}
+
+div.enemy {
+    width: 50px;
+    height: 50px;
+    background-image: url('media/enemy.png');
+    position: absolute;
+}
